@@ -3,7 +3,7 @@
 #define x 10
 #define y 10
 
-// Function to check if the 2D array is column-magic
+// Function to check if the 2D array is column-magi
 int isColumnMagic(int rows, int cols, int arr[x][y])
 {
     // Calculate the sum of the elements in the first column
